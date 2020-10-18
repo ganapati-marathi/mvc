@@ -99,3 +99,12 @@ F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Memory.xml
 F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Numerics.Vectors.xml
 F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
+F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.dll
+F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Web.Http.dll
+F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
+F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
+F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
+F:\MVC\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
+F:\MVC\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
+F:\MVC\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
+F:\MVC\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
