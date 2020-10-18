@@ -7,6 +7,6 @@
     "\\OdeToFood.Web\\Views",
     "\\OdeToFood.Web\\Views\\Home"
   ],
-  "SelectedNode": "\\OdeToFood.sln",
+  "SelectedNode": "\\OdeToFood.Web\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
